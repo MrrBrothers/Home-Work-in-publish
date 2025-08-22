@@ -1,2 +1,3 @@
 # Home-Work-in-publish
 Hello my name is Vlad and i testing programming.
+And the last publication will be about how you can parse the site data - cinema using my code. It's not difficult, you will need several libraries: - "requests" - "BeautifulSoup" - "time" and "pandas as pd". Now go ahead and look at the code and delve into it. There are several tips inside, so you can easily write similar code. Good luck!
